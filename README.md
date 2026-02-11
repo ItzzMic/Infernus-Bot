@@ -56,17 +56,11 @@ For production systems, a mature pool such as **HikariCP** would be preferred.
 
 ---
 
-
 ## Tooling & AI Assistance
 
-This project was developed with the assistance of external tools, including **ChatGPT**, which was used as an engineering aid during development.
+During development, I used AI tools such as ChatGPT as a technical aid to help explore implementation ideas, better understand certain concepts, and refine portions of the code.
 
-AI assistance was used in areas such as:
-- designing and integrating the custom database connection pooling system
-- implementing portions of the asynchronous HTTP service layer
-- exploring alternative implementations and learning unfamiliar APIs
-
-Some methods and snippets were directly adapted from AI-generated examples, while others were used as references and then modified or extended. All code was integrated, reviewed, tested, and understood by me, and I take responsibility for the final implementation and architecture of the system.
+The overall architecture, design decisions, and final implementation were developed and tested by me. AI-generated examples were reviewed and adapted where appropriate.
 
 ---
 
